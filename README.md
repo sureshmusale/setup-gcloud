@@ -233,3 +233,5 @@ See [LICENSE](LICENSE).
 [sa-iam-docs]: https://cloud.google.com/iam/docs/service-accounts
 [sa]: https://cloud.google.com/iam/docs/creating-managing-service-accounts
 [wif]: https://cloud.google.com/iam/docs/workload-identity-federation
+
+Release: v
